@@ -1,0 +1,55 @@
+<div id="container" class="m-40">
+	<h1>Título</h1>
+	<h2>Subtitulo</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {
+  color: white;
+  font-size: 100px;
+  background: black;
+  
+}  -- global se usa " *"  */
+
+ /* #container {
+	width: 200px;
+  color: blue;
+  backgroung: black;
+  font-size: 60px;
+}-- seletor por id  se usa "#" */ 
+
+
+/*
+.m-40 {
+	margin: 40px;
+  color: green;
+  backgroung: black;
+} --- seletor de classe se usa " . " */
+
